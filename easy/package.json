@@ -1,0 +1,27 @@
+{
+  "name": "easy",
+  "version": "1.0.0",
+  "description": "Easy leetcode problems solved",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuizKramer/leetcode.git"
+  },
+  "keywords": [
+    "leetcode",
+    "TypeScript",
+    "Code"
+  ],
+  "author": "Luiz Eduardo Caldas Kramer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuizKramer/leetcode/issues"
+  },
+  "homepage": "https://github.com/LuizKramer/leetcode#readme",
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
