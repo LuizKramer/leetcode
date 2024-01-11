@@ -3,7 +3,7 @@
 ## Introduction
 Welcome to my daily coding challenge! I'm solving one LeetCode problem each day to enhance my coding skills.
 
-Some codes will include a console log for visualisation, but when tou run tests, i recommend removing those logos for performance improvement
+Some codes will include a console log for visualisation, but when you run tests, i recommend removing those logs for performance improvement
 
 
 ## Progress
