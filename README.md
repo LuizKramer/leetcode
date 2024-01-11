@@ -4,8 +4,8 @@
 Welcome to my daily coding challenge! I'm solving one LeetCode problem each day to enhance my coding skills.
 
 ## Progress
-- Problems Solved: 3
-- Easy: 3 
+- Problems Solved: 4
+- Easy: 4
 - Medium: 0
 - Hard 0
 
@@ -27,3 +27,9 @@ Dificulty: Easy :green_circle: <br/>
 Runtime: 98ms - Over 94.17% :white_check_mark:<br/>
 Memory: 46.01 MB - Over 52.01% :white_check_mark:<br/>
 Date: 01/10/2024
+
+### Day 3: Remove Element
+Dificulty: Easy :green_circle: <br/>
+Runtime: 41ms - Over 99.23% :white_check_mark:<br/>
+Memory: 43.98 MB - Over 50.53% :white_check_mark:<br/>
+Date: 01/11/2024
