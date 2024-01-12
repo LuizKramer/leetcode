@@ -36,3 +36,9 @@ Dificulty: Easy :green_circle: <br/>
 Runtime: 41ms - Over 99.23% :white_check_mark:<br/>
 Memory: 43.98 MB - Over 50.53% :white_check_mark:<br/>
 Date: 01/11/2024
+
+### Day 5: Find Index of The First Occurrence in a String
+Dificulty: Easy :green_circle: <br/>
+Runtime: 37ms - Over 99.58% :white_check_mark:<br/>
+Memory: 43.98 MB - Over 50.02% :white_check_mark:<br/>
+Date: 01/12/2024
