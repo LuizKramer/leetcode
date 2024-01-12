@@ -7,8 +7,8 @@ Some codes will include a console log for visualisation, but when you run tests,
 
 
 ## Progress
-- Problems Solved: 4
-- Easy: 4
+- Problems Solved: 5
+- Easy: 5
 - Medium: 0
 - Hard 0
 
